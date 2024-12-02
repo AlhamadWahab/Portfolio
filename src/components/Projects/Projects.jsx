@@ -20,7 +20,7 @@ const Projects = () => {
           </div>
           <div className="w-full max-w-xl lg:w-3/4 flex flex-wrap gap-2">
             <h3 className="mb-2 font-semibold text-2xl">
-              MediCare Web Application
+              MediCare Management Web Application
             </h3>
             <p className="text-gray-400">
               An web application to managing doctors, patients and thier
@@ -119,9 +119,7 @@ const Projects = () => {
           />
         </div>
         <div className="w-full max-w-xl lg:w-3/4">
-          <h3 className="mb-2 font-semibold text-2xl">
-            Bazaar E-Commerce
-          </h3>
+          <h3 className="mb-2 font-semibold text-2xl">Bazaar E-Commerce</h3>
           <p className="text-gray-400">
             An web application allows users to browse a wide range of products,
             view detailed descriptions, and manage their shopping experience
@@ -195,9 +193,7 @@ const Projects = () => {
           />
         </div>
         <div className="w-full max-w-xl lg:w-3/4">
-          <h3 className="mb-2 font-semibold text-2xl">
-            BMI calculator 
-          </h3>
+          <h3 className="mb-2 font-semibold text-2xl">BMI calculator</h3>
           <p className="text-gray-400">
             This project allows users to input their weight and height,
             calculates their Body Mass Index (BMI), and provides feedback on
@@ -230,7 +226,7 @@ const Projects = () => {
         </div>
         <div className="w-full max-w-xl lg:w-3/4">
           <h3 className="mb-2 font-semibold text-2xl">
-            Simple Task Management 
+            Simple Task Management
           </h3>
           <p className="text-gray-400">
             An application to managing tasks using <q>CRUD principle</q>{" "}
@@ -260,9 +256,7 @@ const Projects = () => {
           />
         </div>
         <div className="w-full max-w-xl lg:w-3/4">
-          <h3 className="mb-2 font-semibold text-2xl">
-            Prayer Times
-          </h3>
+          <h3 className="mb-2 font-semibold text-2xl">Prayer Times</h3>
           <p className="text-gray-400">
             An Api that provides users with accurate prayer times based on their
             geographical location. It displays the five daily prayers (Fajr,
