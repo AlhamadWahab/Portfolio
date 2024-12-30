@@ -162,7 +162,7 @@ const Projects = () => {
         </div>
         <div className="w-full max-w-xl lg:w-3/4">
           <h3 className="mb-2 font-semibold text-2xl">
-            CineVerse Ultimate Movie Hub
+            CineHub Ultimate Movie & Series Hub
           </h3>
           <p className="text-gray-400">
             An web application to fetch Movies from OMDb Api to obtain movie
