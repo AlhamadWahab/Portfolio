@@ -55,7 +55,7 @@ const Me = () => {
               variants={childVariants}
               className="bg-gradient-to-r from-stone-300 to-stone-600 bg-clip-text text-3xl tracking-tight text-transparent"
             >
-              Software Developer <q>Entry-Level</q>
+              Software Developer
             </motion.span>
           </motion.div>
           <br></br>
