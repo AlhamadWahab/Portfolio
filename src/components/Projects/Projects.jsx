@@ -119,7 +119,9 @@ const Projects = () => {
           />
         </div>
         <div className="w-full max-w-xl lg:w-3/4">
-          <h3 className="mb-2 font-semibold text-2xl">Bazaar E-Commerce</h3>
+          <h3 className="mb-2 font-semibold text-2xl">
+            LuxeUniverse E-Commerce
+          </h3>
           <p className="text-gray-400">
             An web application allows users to browse a wide range of products,
             view detailed descriptions, and manage their shopping experience
@@ -130,22 +132,19 @@ const Projects = () => {
           </p>
           <br />
           <span className="mr-2 mt-1 rounded bg-stone-800 p-2 text-sm font-medium text-stone-300">
-            HTML
-          </span>
-          <span className="mr-2 mt-1 rounded bg-stone-800 p-2 text-sm font-medium text-stone-300">
-            CSS
+            npm & Vite
           </span>{" "}
           <span className="mr-2 mt-1 rounded bg-stone-800 p-2 text-sm font-medium text-stone-300">
             React Js
           </span>
           <span className="mr-2 mt-1 rounded bg-stone-800 p-2 text-sm font-medium text-stone-300">
-            Redux
+            Redux & reduxjs/toolkit
           </span>
           <span className="mr-2 mt-1 rounded bg-stone-800 p-2 text-sm font-medium text-stone-300">
-            Fetch API
+            React-Icons
           </span>{" "}
           <span className="mr-2 mt-1 rounded bg-stone-800 p-2 text-sm font-medium text-stone-300">
-            Json Server
+            Tailwind css
           </span>
         </div>
       </div>
@@ -178,6 +177,14 @@ const Projects = () => {
           </span>
           <span className="mr-2 mt-1 rounded bg-stone-800 p-2 text-sm font-medium text-stone-300">
             Axios js Api
+          </span>
+          <span className="mr-2 mt-1 rounded bg-stone-800 p-2 text-sm font-medium text-stone-300">
+            ion-icons & Swiper & fontawesome
+          </span>
+          <br />
+          <br />
+          <span className="mr-2 mt-1 rounded bg-stone-800 p-2 text-sm font-medium text-stone-300">
+            SweetAlert2 & Bootstrap
           </span>
         </div>
       </div>
